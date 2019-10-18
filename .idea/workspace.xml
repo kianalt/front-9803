@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8864b74-d2be-425a-b796-34ce31451785" name="Default Changelist" comment="header" />
+    <list default="true" id="c8864b74-d2be-425a-b796-34ce31451785" name="Default Changelist" comment="header">
+      <change afterPath="$PROJECT_DIR$/JJ_Wallpaper_Oktober_2019_desktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jo-Judy_Wallpaper_Feb_2018_Desktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshot (71).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptoject.css" beforeDir="false" afterPath="$PROJECT_DIR$/ptoject.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +20,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -20,6 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SN32Ewvmaaw0Drc9rlAyeyuc9E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -56,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571390016424</updated>
-      <workItem from="1571390017942" duration="12427000" />
+      <workItem from="1571390017942" duration="19274000" />
     </task>
     <task id="LOCAL-00001" summary="header">
       <created>1571412262883</created>
@@ -79,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571412639885</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="header">
+      <created>1571412797668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571412797668</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +115,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="header" />
     <option name="LAST_COMMIT_MESSAGE" value="header" />
   </component>
