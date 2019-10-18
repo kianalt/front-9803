@@ -21,6 +21,7 @@
   </component>
   <component name="ProjectId" id="1SN32Ewvmaaw0Drc9rlAyeyuc9E" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -55,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571390016424</updated>
-      <workItem from="1571390017942" duration="12177000" />
+      <workItem from="1571390017942" duration="12427000" />
     </task>
     <task id="LOCAL-00001" summary="header">
       <created>1571412262883</created>
@@ -64,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571412262883</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="header">
+      <created>1571412495276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571412495276</updated>
+    </task>
+    <task id="LOCAL-00003" summary="header">
+      <created>1571412639885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571412639885</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
