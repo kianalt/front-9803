@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8864b74-d2be-425a-b796-34ce31451785" name="Default Changelist" comment="tab">
-      <change afterPath="$PROJECT_DIR$/photo/Screenshot (76).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/Screenshot (77).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/Screenshot (78).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/Screenshot (80).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/Screenshot (81).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/Screenshot (82).png" afterDir="false" />
+    <list default="true" id="c8864b74-d2be-425a-b796-34ce31451785" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/photo/Linkedin-Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/emoji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/facebook-667456_960_720.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/pintrest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/square-twitter-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/wifi-icon.svg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphic-_Design.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JJ_Wallpaper_Oktober_2019_desktop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jo-Judy_Wallpaper_Feb_2018_Desktop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot (69).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot (71).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot (72).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial-Post_Photography-for-Beginners.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flyer-graphic-design-services-500x500.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo/tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/tree.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project - Copy.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project.css" beforeDir="false" afterPath="$PROJECT_DIR$/project.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +89,11 @@
       <workItem from="1571509587050" duration="10755000" />
       <workItem from="1571742995570" duration="1968000" />
       <workItem from="1571744989538" duration="1709000" />
+      <workItem from="1571771515351" duration="1800000" />
+      <workItem from="1571773351505" duration="1796000" />
+      <workItem from="1571775169925" duration="1799000" />
+      <workItem from="1571776988583" duration="1797000" />
+      <workItem from="1571778836442" duration="1385000" />
     </task>
     <task id="LOCAL-00001" summary="header">
       <created>1571412262883</created>
@@ -137,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571501232628</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="COUSTOM">
+      <created>1571771615603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571771615604</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +160,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="header" />
     <MESSAGE value="tab" />
-    <option name="LAST_COMMIT_MESSAGE" value="tab" />
+    <MESSAGE value="COUSTOM" />
+    <option name="LAST_COMMIT_MESSAGE" value="COUSTOM" />
   </component>
 </project>
