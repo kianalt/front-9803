@@ -8,7 +8,6 @@
 .container{
     border-collapse: collapse;
     position: absolute;
-  margin-bottom: 290px;
 
 }
 .header .left{
@@ -301,6 +300,8 @@ img {vertical-align: middle;}
     border-top: none;
     width: 97%;
     height: 330px;
+    border-left: none;
+    border-right: none;
 
 }
 .project{
@@ -358,16 +359,18 @@ margin-top: 3px;
     width: 50%;
     float: left;
     text-align: left;
+    border-bottom: 1px solid #ccc;
+
 }
 .blog .blog2-r{
     display: inline-block;
     width: 50%;
     float: right;
     text-align: left;
+    border-bottom: 1px solid #ccc;
 }
 .customers{
-    margin-top: 6px;
-
+    margin-top: 20px;
 }
 .customers img {
     margin:1px 18px;
